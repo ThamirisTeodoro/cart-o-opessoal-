@@ -1,0 +1,42 @@
+
+body{
+     background-color: black;
+
+    
+}
+#titulo{
+    font-size: 30px;
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    border-radius: 20px;
+}
+.h{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    width: 580px;
+    height: 250px;
+    padding: 2px 40px;
+    background-image: url("../imagens/backgorund.png");
+    background-size: cover;
+    margin: auto;
+    margin-top: 200px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.linkedin{
+
+    list-style-image: url("../imagens/linkedin1.png");
+    padding: 5px;
+}
+.instagram{
+    list-style-image: url("../imagens/instagram.png");
+    padding: 5px;
+}
+.facebook{
+    list-style-image: url("../imagens/facebook.png");
+}
